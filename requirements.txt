@@ -1,0 +1,6 @@
+streamlit
+openai
+Pillow
+python-docx
+fpdf2
+reportlab
